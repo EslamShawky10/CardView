@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">CardViewTest</string>
+
+    <string-array name="person_name">
+        <item>Eslam</item>
+        <item>Mohamed</item>
+        <item>ALi</item>
+        <item>Hassan</item>
+        <item>Nour</item>
+        <item>Ahmed</item>
+        <item>Esraa</item>
+        <item>Dina</item>
+        <item>Mostaf</item>
+    </string-array>
+
+    <string-array name="person_email">
+        <item>Eslam@yahoo.com</item>
+        <item>Mohamed@yahoo.com</item>
+        <item>ALi@yahoo.com</item>
+        <item>Hassan@yahoo.com</item>
+        <item>Nour@yahoo.com</item>
+        <item>Ahmed@yahoo.com</item>
+        <item>Esraa@yahoo.com</item>
+        <item>Dina@yahoo.com</item>
+        <item>Mostaf@yahoo.com</item>
+    </string-array>
+
+    <string-array name="person_phone">
+        <item>01119091058</item>
+        <item>01091729828</item>
+        <item>01001245782</item>
+        <item>01245789654</item>
+        <item>01091729828</item>
+        <item>01245785658</item>
+        <item>01235692541</item>
+        <item>01001245782</item>
+        <item>01091729828</item>
+    </string-array>
+</resources>
